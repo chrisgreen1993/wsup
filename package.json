@@ -1,0 +1,12 @@
+{
+  "name": "wsup",
+  "version": "0.0.1",
+  "description": "CLI to generate a standup message.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chris Green",
+  "license": "ISC",
+  "bin": "index.js"
+}
